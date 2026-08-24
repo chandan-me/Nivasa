@@ -1,4 +1,4 @@
-# 🏢 ApartmentHub
+# 🏢 Nivasa
 
 ### **Smart Living. Connected Community.**
 
